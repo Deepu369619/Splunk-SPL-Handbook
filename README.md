@@ -4,7 +4,7 @@
 
   ## Live Page
 
-  **[https://Deepu369619.github.io/splunk-spl-handbook/](https://Deepu369619.github.io/splunk-spl-handbook/)**
+  **[https://sai-deepak-mangipudi.github.io/splunk-spl-handbook/](https://Deepu369619.github.io/splunk-spl-handbook/)**
 
   > Enable GitHub Pages (Settings → Pages → Branch: `main` → Save) to activate the live link.
 
