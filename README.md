@@ -1,10 +1,10 @@
-  # Splunk SPL — Threat Hunter's Field Reference                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                                        
-  A comprehensive, self-contained Splunk SPL reference built for Threat Hunters. Open `index.html` in any browser — no dependencies, no setup.
-
+# Splunk SPL — Threat Hunter's Field Reference                                                                                                                                                                                                                                        
+                  
+  A comprehensive, self-contained Splunk SPL reference built for senior Threat Hunters. Open `index.html` in any browser — no dependencies, no setup.                                                                                                                                   
+                  
   ## Live Page
 
-  **[https://sai-deepak-mangipudi.github.io/splunk-spl-handbook/](https://Deepu369619.github.io/splunk-spl-handbook/)**
+  **[https://sai-deepak-mangipudi.github.io/splunk-spl-handbook/](https://sai-deepak-mangipudi.github.io/splunk-spl-handbook/)**
 
   > Enable GitHub Pages (Settings → Pages → Branch: `main` → Save) to activate the live link.
 
@@ -26,7 +26,7 @@
   | **Command Cheat Table** | All commands at a glance |
   | **Performance Rules** | 10 rules to keep searches fast |
 
-  ## Hunt Queries Included (Just For Reference)
+  ## Hunt Queries Included
 
   - Brute Force Detection (T1110)
   - Password Spray (T1110.003)
@@ -53,7 +53,7 @@
 
   Clone and open:
 
-      git clone https://github.com/Deepu369619/splunk-spl-handbook.git
+      git clone https://github.com/sai-deepak-mangipudi/splunk-spl-handbook.git
       open splunk-spl-handbook/index.html
 
   Or just open the GitHub Pages link above.
